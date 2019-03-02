@@ -6,6 +6,8 @@ import ru.avalon.java.dev.ocpjp.labs.core.io.RandomFileReader;
 import java.io.IOException;
 import java.util.Collection;
 
+// ...
+
 /**
  * Абстрактное представление о товаре.
  */
